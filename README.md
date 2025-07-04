@@ -88,3 +88,4 @@ This will open a graphical interface with three platform buttons. Click on any p
 
 Shivansh Thakur
 GitHub: @shivanshthakur55
+email: shivanshthakur30@gmail.com
